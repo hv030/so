@@ -5,12 +5,12 @@
 
 ## Gruppe
 
-David Gereon Wolf
+David Gereon Wolf, Henrik Braun
 NAME1, NAME2, NAME3,...
 
-Gruppentreffen: DATE_TIME_PLACE
+Gruppentreffen: Mittwoch 15-17 Uhr, Raum 028, Gebäude 082
 
-* Product Owner: NAME_HIER
+* Product Owner: Henrik Braun
 * Architektur: NAME_HIER
 * Qualitätssicherung: NAME_HIER
 
@@ -21,7 +21,7 @@ Gruppentreffen: DATE_TIME_PLACE
 * Alle für das Item relevanten Daten sind im Git-Repository (release).
 * Tutor und Team haben das Item im Produktinkrement abgenommen.
 
-## Heinweise
+## Hinweise
 
 * Laden Sie keine kompilierten Binärdateien hoch (z.B.: `*.exe`, `*.bin`). Ausname hier sind _nur_ die Archive für die Abgaben.
 * Laden Sie keine benutzerspezifischen Dateien hoch (Zum Beispiel `*.suo`, `*.user`)
